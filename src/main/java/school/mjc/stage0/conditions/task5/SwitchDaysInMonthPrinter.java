@@ -41,7 +41,7 @@ public class SwitchDaysInMonthPrinter {
                 break;
                 
             default:
-                System.out.println("wrong month);
+                System.out.println("wrong month");
         }    
     }
     
